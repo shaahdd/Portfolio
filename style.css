@@ -155,8 +155,7 @@ padding-right: 30px;
     margin: auto;
 }
 
-.contact-form input,
-.contact-form textarea {
+.contact-form input,.contact-form textarea {
     width: 100%;
     padding: 15px;
     margin: 10px 0;
@@ -198,6 +197,7 @@ padding-right: 30px;
 .footer-title span {
     color: #009900;
 }
+
 .social-icons2  a{
 color:#0D1117;
 font-size: 1.3em;
@@ -231,6 +231,7 @@ padding: 0 12px 0 0;
     }
 
 }
+
 @media (max-width:641px){
     body{
         font-size: 12px;
@@ -240,6 +241,7 @@ padding: 0 12px 0 0;
         font-size: 0.8em;
     }
 }
+
 @media (max-width:300px){
     body{
         font-size: 10px;
